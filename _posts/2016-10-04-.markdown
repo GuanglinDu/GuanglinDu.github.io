@@ -1,6 +1,0 @@
----
-published: true
-title: Second Post
-layout: post
----
-this is my 2nd post
