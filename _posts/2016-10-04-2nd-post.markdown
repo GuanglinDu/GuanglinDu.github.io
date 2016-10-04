@@ -1,6 +1,6 @@
 ---
 published: true
-title: 2nd post
+title: my-second-post
 layout: post
 ---
 是该好好地说说启蒙这事儿了
