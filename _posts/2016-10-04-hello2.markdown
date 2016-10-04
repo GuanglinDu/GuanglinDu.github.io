@@ -1,7 +1,6 @@
 ---
 published: true
-title: hello2
+title: 徐琳：是该好好地说说启蒙这事儿了
 layout: post
 ---
-hello 2
-这是中文简体
+徐琳：是该好好地说说启蒙这事儿了
