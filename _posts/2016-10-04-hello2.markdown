@@ -1,0 +1,6 @@
+---
+published: true
+title: hello2
+layout: post
+---
+hello 2
