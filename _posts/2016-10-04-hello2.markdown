@@ -4,3 +4,4 @@ title: hello2
 layout: post
 ---
 hello 2
+这是中文简体
