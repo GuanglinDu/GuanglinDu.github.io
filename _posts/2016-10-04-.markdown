@@ -1,6 +1,6 @@
 ---
 published: true
-title: 徐琳：是该好好地说说启蒙这事儿了
+title: scond-post
 layout: post
 ---
 徐琳：是该好好地说说启蒙这事儿了
