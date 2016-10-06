@@ -1,6 +1,6 @@
 ---
 published: true
-title: GaoYaojie
+title: 朱学勤：煌煌神州大地，竟容不下一个站着说真话的老人
 layout: post
 ---
 朱学勤：煌煌神州大地，竟容不下一个站着说真话的老人
