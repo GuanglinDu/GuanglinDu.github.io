@@ -1,6 +1,6 @@
 ---
 published: true
-title: LawyerXieYang
+title: 谢阳妻子致中国律师的声明
 layout: post
 ---
 <img src="https://github.com/GuanglinDu/images/blob/master/2016/XieYang-ChenGuiqiu.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
