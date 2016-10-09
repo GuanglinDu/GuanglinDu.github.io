@@ -3,7 +3,7 @@ published: true
 title: 向709家属致敬！
 layout: post
 ---
-<img src="https://github.com/GuanglinDu/images/blob/master/2016/LiWenzu-ChenGuiqiu-YuanShansha.jpg.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
+<img src="https://github.com/GuanglinDu/images/blob/master/2016/LiWenzu-ChenGuiqiu-YuanShansha.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
 
 向709家属致敬！ 
  
