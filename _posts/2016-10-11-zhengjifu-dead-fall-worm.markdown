@@ -1,6 +1,6 @@
 ---
 published: true
-title: ZhengJifu-dead-fall-worm
+title: A Dead Fall Worm
 layout: post
 ---
-A dead fall worm
+A dead fall worm written by Zhen Jifu
