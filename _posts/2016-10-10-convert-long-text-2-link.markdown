@@ -1,6 +1,6 @@
 ---
 published: true
-title: convert-long-text-2-link
+title: 两种处理长文避免刷屏的方法
 layout: post
 ---
 两种处理长文避免刷屏的方法
