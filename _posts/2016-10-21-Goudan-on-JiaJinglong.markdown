@@ -3,7 +3,7 @@ published: true
 title: 刘二狗蛋|杀了贾敬龙，还有后来人！共和国贱民贾敬龙的生死书
 layout: post
 ---
-<img src="https://github.com/GuanglinDu/images/blob/master/2016/JiaJinglong.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
+<img src="https://github.com/GuanglinDu/images/blob/master/2016/JiaJinglong-on-field.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
 刘二狗蛋|杀了贾敬龙，还有后来人！共和国贱民贾敬龙的生死书
 
 文/刘二狗蛋
