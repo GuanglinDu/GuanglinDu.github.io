@@ -3,7 +3,11 @@ published: true
 title: 无眠—#三个焦头烂额的女人#
 layout: post
 ---
-<img src="https://github.com/GuanglinDu/images/blob/master/2016/Park-Geun-hye.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'><img src="https://github.com/GuanglinDu/images/blob/master/2016/Hillary-Clinton?raw=true" style='height: 100%; width: 100%; object-fit: contain'><img src="https://github.com/GuanglinDu/images/blob/master/2016/HongXiuzhu?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
+<img src="https://github.com/GuanglinDu/images/blob/master/2016/Park-Geun-hye.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
+
+<img src="https://github.com/GuanglinDu/images/blob/master/2016/Hillary-Clinton.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
+
+<img src="https://github.com/GuanglinDu/images/blob/master/2016/HongXiuzhu.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
 
 无眠—#三个焦头烂额的女人#
 ……
