@@ -27,5 +27,5 @@ layout: post
 
 王译（程建萍）账号：程建萍，无锡工行，6212 2611 0300 3244945; 支付宝：ziyounvren@gmail.com，程建萍
 
-王译现在：无锡人民医院心肺科
+王译现在：无锡人民医院心肺诊疗中心（X楼）
 <img src="https://github.com/GuanglinDu/images/blob/master/2016/WangYi-is-sick.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
